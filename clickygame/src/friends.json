@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "SpongeBob",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/eOF2Umn-mqNGnohxrtjeurwWDmI/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/08/20/677/n/1922283/1118a12c5b7adb1e342de9.55515725_/i/Michael-Scott-Misquotations-Office-Video.jpg",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "image": "https://costumewall.com/wp-content/uploads/2018/09/pam-beesly.jpg",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "image": "https://theofficeanalytics.files.wordpress.com/2017/11/dwight.jpeg?w=1200",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "https://pbs.twimg.com/profile_images/3171824697/ef75d90df2e65ce326acf30262df5918.jpeg",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article7426852.ece/ALTERNATES/s615b/David-Brent-in-The-Office.jpg",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": "https://pbs.twimg.com/profile_images/2555190358/f0uxlurl1ej2ugefl8l5_400x400.jpeg",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-the-office-uk-lucy-davis.jpg",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow"
+    },
+    {
+      "id": 8,
+      "name": "Johnny Bravo",
+      "image": "https://pbs.twimg.com/profile_images/986266336899878912/7zMCzlpk_400x400.jpg",
+      "occupation": "Ladies Man",
+      "location": "Aron City"
+    },
+    {
+      "id": 9,
+      "name": "Tommy Pickles",
+      "image": "http://www.pilkipedia.co.uk/wiki/images/thumb/4/4f/BigKeith.jpg/250px-BigKeith.jpg",
+      "occupation": "Adventurer",
+      "location": "California"
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/actors/brian-baumgartner-6.48.jpg",
+      "occupation": "Cashier",
+      "location": "O-Town, California"
+    },
+    {
+      "id": 11,
+      "name": "Captain Planet",
+      "image": "https://i.pinimg.com/originals/50/06/30/500630c1fe25a3e765c078b054e1ac0a.jpg",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Ickis",
+      "image": "http://www.pilkipedia.co.uk/wiki/images/thumb/a/a2/Donna.JPG/250px-Donna.JPG",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump"
+    }
+  ]
+  
