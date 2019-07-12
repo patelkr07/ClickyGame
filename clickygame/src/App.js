@@ -21,7 +21,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Friends List</Title>
+        <Title>The Office Clicky Game</Title>
         {this.state.friends.map(friend => (
           <Card
             removeFriend={this.removeFriend}
