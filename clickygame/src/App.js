@@ -93,3 +93,8 @@ class App extends Component {
 }
 
 export default App;
+
+//NOTE: I had trouble with the logic for this assignment and I used outside help from the following:
+
+//https://www.geeksforgeeks.org/shuffle-a-given-array-using-fisher-yates-shuffle-algorithm/
+//https://github.com/vdelariva/clickygame
