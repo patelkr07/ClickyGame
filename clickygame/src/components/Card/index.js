@@ -5,11 +5,11 @@ function Card(props) {
     return (
       <div className="card">
         <div className="img-container">
-          <img alt={props.name} src={props.image} />
-        </div>
-        <span onClick={() => props.removeFriend(props.id)} className="remove">
-          𝘅
-        </span>
+          <img alt={props.name} src={props.image}
+              onClick={() => props.clickedChars(props.id)}>
+        </img>
+        </div>        
+        
       </div>
     );
   }
